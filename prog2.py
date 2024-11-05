@@ -1,4 +1,8 @@
 x = 24
 y = 69
-a = x+y
-print ("nilai dari hasil adalah : ", a)
+
+alas = x 
+tinggi = y
+
+hasil = 0.5 * alas * tinggi
+print (f"hasil dari 1/2 x {alas x {tinggi} adalah = {hasil}")
